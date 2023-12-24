@@ -1,4 +1,5 @@
 PyTest Dekoratörleri Nedir?
+
 Yazılım geliştirme süreçlerinde, kodun güvenilir ve hatasız çalışmasını sağlamak için testler büyük bir öneme sahiptir. PyTest, Python tabanlı bir test çerçevesi olup, test süreçlerini kolaylaştırmak, daha etkili hale getirmek ve kod kalitesini artırmak için bir dizi özellik sunmaktadır. PyTest'in bu özelliklerinden biri de dekoratörlerdir. PyTest dekoratörleri, yazılım testlerini daha anlaşılır, yönetilebilir ve tekrar kullanılabilir hale getirmek için kullanılan güçlü araçlardır.PyTest dekoratörleri, test fonksiyonlarına veya metotlarına özel davranışlar eklemek ve testlerin daha etkili bir şekilde yönetilmesini sağlamak için kullanılan işlevsel öğelerdir. Bu dekoratörler, testlerin çalışma zamanında nasıl davranacaklarına dair talimatlar içerir ve test sürecini yönlendirmeye yardımcı olur.
 
 PyTest Dekoratörlerinin Önemi
